@@ -1,0 +1,25 @@
+{
+  "name": "utang-mo-lista-ko",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielfaborada/utang-mo-lista-ko.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nathanielfaborada/utang-mo-lista-ko/issues"
+  },
+  "homepage": "https://github.com/nathanielfaborada/utang-mo-lista-ko#readme",
+  "dependencies": {
+    "parcel": "^2.16.4"
+  }
+}
